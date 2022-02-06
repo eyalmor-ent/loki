@@ -8,3 +8,4 @@ theme:
   favicon: logo.png
 markdown_extensions:
   - codehilite
+
